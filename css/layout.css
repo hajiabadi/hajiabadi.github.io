@@ -319,14 +319,14 @@ ul#nav li.current a { color: #F06000; }
 #publication .author {
    font: 16px/24px 'librebaskerville', serif;
    color: #000;
-   margin-bottom: 18px;
-   margin-top: 9px;
+   margin-bottom: 5px;
+   margin-top: 5px;
 }
 #publication .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
-   margin-bottom: 18px;
-   margin-top: 9px;
+   margin-bottom: 5px;
+   margin-top: 5px;
 }
 #publication .info span {
    margin-right: 5px;
